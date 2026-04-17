@@ -1,8 +1,10 @@
 <?php 
-$usuario="brago"
+$usuario="brago";
+$usuario="braulio";
+$edad= 36;
 ;?>
 
 
 
-<?php echo "<h2>  hola <strong>$usuario</strong> </h2>" ?>
-<?php echo "<p>  </p>" ?>
+<?php echo "<h2>  Bienvenido <strong>$usuario</strong> </h2>" ?>
+<?php echo "<p> tu edad es $edad . </p>" ?>
