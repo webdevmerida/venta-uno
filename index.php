@@ -1,7 +1,7 @@
 <?php 
-$usuario="brago";
-$usuario="braulio";
-$edad= 36;
+
+$usuario="delfina";
+$edad= 70;
 ;?>
 
 
